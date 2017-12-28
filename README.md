@@ -23,7 +23,7 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Akutik levitasyon: katı,sıvı ve ağır gazların yüzmesine neden olan ses özelliklerinden yararlanan ve ortamdaki yoğun ses dalgalarının akustik radyasyon basıncını kullanarak bir ortamdaki maddeyi askıya almak için kullanılan bir yöntemdir. Yoğun ses dalgalarının doğrusal olmayan etkileri nedeniyle akustik kaldırma mümkündür. Başka bir deyişle ses, yeryüzündeki nesneleri havada durdurabilir. Bizim projemizin amacı da nesneleri ne ölçüde idare edebilirsin? sorusuna yanıt bulmak
 # Giriş (Introduction)
 Bu bölüm; 
 literatür
